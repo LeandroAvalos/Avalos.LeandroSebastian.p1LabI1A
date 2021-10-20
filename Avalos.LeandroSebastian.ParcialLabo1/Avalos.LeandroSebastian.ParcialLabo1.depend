@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1634731538 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1634735981 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\color.h
+
+1634738607 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"trabajo.h"
+
+1634736098 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\fecha.h
+
+1634737729 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+
+1634736377 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\servicio.h
+
+1634737228 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1634735851 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\tipo.h
+
+1634734346 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\inputs.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+
+1634731973 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\servicio.c
+	"servicio.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1634731342 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1634738317 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inputs.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"bicicleta.h"
+	"trabajo.h"
+
+1634733229 c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\inputs.h
+	"bicicleta.h"
+
+1634737964 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"trabajo.h"
+	"servicio.h"
+	"color.h"
+	"bicicleta.h"
+	"tipo.h"
+	"inputs.h"
+
+1634738468 source:c:\users\drack\desktop\programacion 1\avalos.leandrosebastian.parciallabo1\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"inputs.h"
+	"tipo.h"
+	"color.h"
+	"bicicleta.h"
+	<string.h>
+	<ctype.h>
+
